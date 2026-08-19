@@ -14,7 +14,7 @@ APRESENTAÇÃO
 
 ##conhecimentos
 
-##ojetivos
+##objetivos
 
 ##contato
 
