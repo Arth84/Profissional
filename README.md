@@ -14,9 +14,11 @@ APRESENTAÇÃO
 
 ##conhecimentos
 
+
 ##objetivos
+em busca da obtenção de conhecimentos e experiências profissionais e capacitação na área de tecnologia.
 
 ##contato
 
-- LinkedIn: [seu LinkedIn]
+- LinkedIn: [www.linkedin.com/in/arthur-lucas-07b140291]
 - E-mail: [arthur.l.souza23@gmail.com]
